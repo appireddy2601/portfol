@@ -61,6 +61,5 @@ Created a sentiment analysis tool to classify the sentiment of tweets as positiv
 Feel free to reach out to me via the following channels:
 - **Email:** [email](mailto:appireddyjagadeeswarreddy5@gmail.com)
 - **LinkedIn:** [linkedin](https://www.linkedin.com/in/jagadeeswar-appireddy-098206251)
-- **GitHub:** [github](https://github.com/appireddy2601)
 
 Thank you for visiting my portfolio website! I look forward to connecting with you.
